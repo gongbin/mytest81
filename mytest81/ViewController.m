@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSString *abc=@"abc";
+    NSLog(@"abc:%@",abc);
 }
 
 - (void)viewDidUnload
